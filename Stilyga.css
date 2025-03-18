@@ -1,0 +1,36 @@
+.mines {
+    margin-top: 15px;
+    height: 15px;
+    width: 15px;
+    border:solid black 2px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.red-Kvodratic{
+    display: grid;
+    grid-template-rows: 3em;
+    grid-template-columns: 15px 7px 10px 11em 5px;
+    margin-top: 8px;
+}
+.redd{
+    background-color: rgba(112, 32, 26, 0.925);
+    
+}
+.red{
+    background-color: rgba(192, 13, 0, 0.76);
+    display:flex;
+    align-items: center;
+    justify-content: start;
+}
+ul 
+{
+    list-style-type: none;
+}
+li{
+    list-style-type: none;
+}
+img{
+    width: 11em;
+    height: 3em;
+}
